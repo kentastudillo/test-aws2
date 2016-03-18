@@ -3,6 +3,6 @@ branch-defaults:
     environment: sample-python-env
 global:
   application_name: sample-python
-  default_region: us-west-2
+  default_region: us-east-1
   profile: eb-cli
   sc: git
